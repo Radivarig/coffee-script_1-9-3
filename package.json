@@ -1,0 +1,8 @@
+{
+  "name": "coffee-script_1-9-3",
+  "version": "1.0.0",
+  "description": "Version of coffee-script that works with webpack, compiles text to object in browser runtime",
+  "author": "Reslav Hollos",
+  "license": "MIT",
+  "main": "./coffee-script-1.9.3-min.js"
+}
